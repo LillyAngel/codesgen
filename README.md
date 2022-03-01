@@ -1,2 +1,2 @@
-# nitrogen
+# NITRO, PAYSAFECARD, STEAM CODES GENERATOR
 Simple codes generator.
