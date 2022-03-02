@@ -1,0 +1,14 @@
+C:\Users\zwola\source\repos\nitrogen\nitrogen\bin\Debug\net6.0\nitrogen.exe
+C:\Users\zwola\source\repos\nitrogen\nitrogen\bin\Debug\net6.0\nitrogen.deps.json
+C:\Users\zwola\source\repos\nitrogen\nitrogen\bin\Debug\net6.0\nitrogen.runtimeconfig.json
+C:\Users\zwola\source\repos\nitrogen\nitrogen\bin\Debug\net6.0\nitrogen.dll
+C:\Users\zwola\source\repos\nitrogen\nitrogen\bin\Debug\net6.0\ref\nitrogen.dll
+C:\Users\zwola\source\repos\nitrogen\nitrogen\bin\Debug\net6.0\nitrogen.pdb
+C:\Users\zwola\source\repos\nitrogen\nitrogen\obj\Debug\net6.0\nitrogen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwola\source\repos\nitrogen\nitrogen\obj\Debug\net6.0\nitrogen.AssemblyInfoInputs.cache
+C:\Users\zwola\source\repos\nitrogen\nitrogen\obj\Debug\net6.0\nitrogen.AssemblyInfo.cs
+C:\Users\zwola\source\repos\nitrogen\nitrogen\obj\Debug\net6.0\nitrogen.csproj.CoreCompileInputs.cache
+C:\Users\zwola\source\repos\nitrogen\nitrogen\obj\Debug\net6.0\nitrogen.dll
+C:\Users\zwola\source\repos\nitrogen\nitrogen\obj\Debug\net6.0\ref\nitrogen.dll
+C:\Users\zwola\source\repos\nitrogen\nitrogen\obj\Debug\net6.0\nitrogen.pdb
+C:\Users\zwola\source\repos\nitrogen\nitrogen\obj\Debug\net6.0\nitrogen.genruntimeconfig.cache
