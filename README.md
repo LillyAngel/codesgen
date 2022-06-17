@@ -3,4 +3,5 @@
 # NITRO, PAYSAFECARD, STEAM CODES GENERATOR
 SIMPLE CODES GENERATOR WRITTEN IN C#. Feel free to use it.
 
-CHECKER TO THESE CODES SOON...
+CHECKER TO NITRO CODES:  
+https://github.com/LillyAngel/discord-nitro-checker
